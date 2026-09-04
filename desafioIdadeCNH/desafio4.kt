@@ -1,8 +1,10 @@
+// Desafio 4 - Verificação de condições para dirigir
+// Usando a condição "OU" (OR)
 fun main() {
     print("Voce e motorista? (S/N): ")
     val resposta = readln()
     val motorista = resposta.equals("S", ignoreCase = true)
-    
+
     print("Digite sua idade: ")
     val idade = readln().toInt()
 

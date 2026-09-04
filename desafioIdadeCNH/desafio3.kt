@@ -1,3 +1,5 @@
+// Desafio 3 - Verificação de idade para dirigir, usando a negação da condição ('!', NOT)
+
 fun main() {
     print("Digite sua idade: ")
     val idade = readln().toInt()

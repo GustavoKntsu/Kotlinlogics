@@ -14,9 +14,12 @@ Cada desafio esta em um arquivo `.kt` separado, cada um com sua
 propria funcao `main()`.
 
 Pelo terminal:
+```
+cd .. - sai da pasta
+cd nomeDaPasta - Entra na pasta 
 kotlinc nomeDoArquivo.kt -include-runtime -d nomeDoArquivo.jar
 java -jar nomeDoArquivo.jar
-
+```
 
 ## Estrutura
 
