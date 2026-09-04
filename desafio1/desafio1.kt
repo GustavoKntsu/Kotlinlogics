@@ -1,11 +1,13 @@
 fun main() {
-    val stringA = "Ola"
-    val stringB = "Mundo"
+    print("Digite a primeira string: ")
+    val stringA = readln()
+
+    print("Digite a segunda string: ")
+    val stringB = readln()
 
     if (stringA == stringB) {
         println("As strings são iguais.")
     } else {
         println("As strings são diferentes.")
     }
-   
 }
