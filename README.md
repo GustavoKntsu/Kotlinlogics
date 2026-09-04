@@ -3,8 +3,8 @@
 ## Sobre o ambiente
 
 Usei o VSCode em vez do IntelliJ IDEA por ser um editor mais leve para
-diminuir a lentidão ao codar, ja que o IntelliJ consume muitos
-recursos da maquina. Por isso, o Kotlin foi instalado via Scoop
+diminuir a lentidão ao codar, ja que o IntelliJ consume muito
+da memória da máquina. Por isso, o Kotlin foi instalado via Scoop
 (gerenciador de pacotes do Windows), reutilizando o JDK ja existente
 na maquina.
 
